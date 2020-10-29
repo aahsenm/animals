@@ -1,3 +1,5 @@
 zebra
 giraffe
 lion
+monkey
+tiger
